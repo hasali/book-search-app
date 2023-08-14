@@ -3,6 +3,7 @@
 - Used Neondb, a servless postgres database and the .env file is included.
 
 <br>
+
 ## **Part 2**
 
 1. Find the oldest book for each author.
@@ -67,7 +68,9 @@ ORDER BY
   publication_year;
 </code>
 <br>
+
 ## **Part 3**
+
 - The web app was built with express as backend and vanilla JS for the front.
 - Dependencies: express, pg, and axios.
 - run with npm server.js
